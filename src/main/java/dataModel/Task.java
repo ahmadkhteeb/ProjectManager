@@ -5,5 +5,6 @@ import java.util.ArrayList;
 public class Task extends Job {
 
     private ArrayList<Task> tasks;
+    private ArrayList<Employee> employees;
 
 }
